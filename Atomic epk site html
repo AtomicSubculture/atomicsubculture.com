@@ -1,0 +1,28 @@
+
+<html>
+  <head>
+    <title>Atomic Subculture</title>
+  </head>
+  <body>
+    <h3>About the Band</h3>
+    <p>We are a high-energy band that blends elements of punk, psychadelia, and rock into a unique and unforgettable sound. Our music is inspired by the DIY ethos of the punk scene and the trippy, experimental vibes of classic psychadelic rock. We hail from Enterprise, Alabama and have been making waves in the local music scene with our fierce live performances and catchy melodies. </p>
+    <h3>Band Members</h3>
+    <ul>
+      <li>Singer/Guitarist: Patrick Thorne</li>
+      <li>Bassist: Josh Roney</li>
+      <li>Drummer: Mason Lee</li>
+      <li>Guitarist: Cam Stephens</li>
+    </ul>
+    <h3>Contact</h3>
+    <p>To book Atomic Subculture for a show or event, or for more information, contact us at:</p>
+    <p>Email: AtomicSubcultureMusic@Gmail.com</p>
+    <p>Phone: (334) 489 - 8199</p>
+    <h3>Stay Connected</h3>
+    <p>To stay up-to-date on the latest news and shows from Atomic Subculture, enter your email below:</p>
+    <form>
+      <label for="email">Email:</label><br>
+      <input type="text" id="email" name="email"><br>
+      <input type="submit" value="Subscribe">
+    </form> 
+  </body>
+</html>
